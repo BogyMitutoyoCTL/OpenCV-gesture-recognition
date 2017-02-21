@@ -23,12 +23,14 @@ Finde die größte Palindromzahl, die sich bei der Multiplikation von zwei dreis
 Die Zahl 2520 lässt sich durch alle Zahlen von 1 bis 10 ohne Rest teilen. Es handelt sich um die kleinste Zahl, bei der dies möglich ist.
 Finde die kleinste Zahl, die sich durch alle Zahlen von 1 bis 20 ohne Rest teilen lässt.
 
+Diese Aufgabe ist nicht ganz einfach. Wenn Du nicht weiterkommst, versuche erst einmal die Aufgaben 6 bis 10.
+
 ## Aufgabe 6: Quadratsummen
 Die Summe der Quadrate der Zahlen von 1 bis 10 ist 385 (1²+2²+...+10²). Das Quadrat der Summe der Zahlen von 1 bis 10 ist 3025 ([1+2+...+10]²). Der Unterschied zwischen beiden ist 2640 (3025-385).
 Finde den Unterschied der Summe der Quadrate und des Quadrats der Summe für die Zahlen 1 bis 100.
 
 ## Aufgabe 7: Die 10001. Primzahl
-Die ersten Primzahlen sind 2, 3, 5, 7, 11, 13. Die sechte Primzahl ist 13.
+Die ersten Primzahlen sind 2, 3, 5, 7, 11, 13. Die sechste Primzahl ist 13.
 Welches ist die 10001. Primzahl?
 
 ## Aufgabe 8: Prudukt von aufeinanderfolgenden Ziffern
@@ -57,6 +59,13 @@ In der folgenden 1000-stelligen Zahl befinden sich hintereinander die Ziffern 9,
 ```
 Das Produkt dieser Ziffern ist 5832. Es handelt sich dabei um das größte Produkt aus 4 aufeinanderfolgenden Ziffern in dieser Zahl.
 Finde das größte Produkt von 13 aufeinanderfolgenden Ziffern in dieser 1000-stelligen Zahl.
+
+Tipp: ein langer Text lässt sich in Python folgendermaßen schreiben:
+```
+text = "Langer text\
+der über eine Zeile\
+hinausgeht."
+```
 
 ## Aufgabe 9: Pythagoras-Produkt
 Pythagoras fand die Gleichung a²+b²=c² für rechtwinklige Dreiecke. Wir schränken ein auf a < b < c. Bei natürlichen Zahlen gibt es z.B. 3²+4²=5². Die Summe aus a, b und c ist hier 12 und das Produkt aus a, b und c ist in diesem Fall 60.
