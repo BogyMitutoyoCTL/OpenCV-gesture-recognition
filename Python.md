@@ -192,7 +192,7 @@ print(a, b, ab)
 Es gibt noch weitere Rechenoperationen:
 - Ganzzahl Division mit **//**, z.B. 5//2 = 2
 - Rest (Modulo) mit **%**, z.B. 5%2 = 1
-- Potenz mit **\*\***, z.B. 2\*\*3 = 2³ = 8
+- Potenz mit **\****, z.B. 2\*\*3 = 2³ = 8
 - Klammern mit **(** und **)**, z.B. (3+1)*2 = 8
 
 Die Regel "Punkt vor Strich" ist sicherlich bekannt. Mit den zusätzlichen Rechenoperationen ist die Reihenfolge nicht mehr ganz so klar. Folgender Merkspruch kann helfen:
@@ -282,3 +282,14 @@ print(halloWelt[6:])
 print(halloWelt[-5:-1])
 ```
 
+Eine Aufgabe, die oft vorkommt, ist die Umwandlung von Text in Zahlen und umgekehrt. Das liegt daran, dass ein Benutzer auch Zahlen per Tastatur und damit als Text eingibt. Es gibt folgende Umwandlungsfunktionen:
+- Text in Ganzzahl mit **int(...)**
+- Text in Kommazahl mit **float(...)**
+- Zahl in Text mit **str(...)**
+
+```
+zahl = int("5")
+kommazahl = float("5.1")
+text = str(zahl)
+print(zahl, text, kommazahl)
+```
