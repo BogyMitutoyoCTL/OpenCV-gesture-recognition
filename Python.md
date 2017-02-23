@@ -192,7 +192,7 @@ print(a, b, ab)
 Es gibt noch weitere Rechenoperationen:
 - Ganzzahl Division mit **//**, z.B. 5//2 = 2
 - Rest (Modulo) mit **%**, z.B. 5%2 = 1
-- Potenz mit **\****, z.B. 2\*\*3 = 2³ = 8
+- Potenz mit \*\*, z.B. 2\*\*3 = 2³ = 8
 - Klammern mit **(** und **)**, z.B. (3+1)*2 = 8
 
 Die Regel "Punkt vor Strich" ist sicherlich bekannt. Mit den zusätzlichen Rechenoperationen ist die Reihenfolge nicht mehr ganz so klar. Folgender Merkspruch kann helfen:
