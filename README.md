@@ -5,7 +5,7 @@ Das Projekt Gestenerkennung entsteht als Teil der Berufsorientierung für Gymnas
 Projektziel: Gestenerkennung mit OpenCV auf dem Raspberry Pi zur Steuerung von Geräten (z.B. Stereoanlage)
 
 Zu vermittelndes Wissen:
-- Raspberry Pi Hardware
+- [Raspberry Pi Hardware](Anleitungen/Raspberry Hardware.pptx)
 - [Linux (Raspbian) Grundlagen](Anleitungen/Einführung Linux.docx)
 - [Installation von OpenCV auf dem Raspberry](Anleitungen/Installation von OpenCV 3 auf Raspberry Pi 3.docx)
 - [Einrichten einer Remote Desktop Verbindung vom PC zum Raspberry](Anleitungen/Einrichtung einer Remotedesktopverbindung von Windows zu RasPi.docx)
