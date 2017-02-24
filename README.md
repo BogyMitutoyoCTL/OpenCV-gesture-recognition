@@ -9,7 +9,7 @@ Zu vermittelndes Wissen:
 - [Linux (Raspbian) Grundlagen](Anleitungen/Einführung Linux.docx)
 - [Installation von OpenCV auf dem Raspberry](Anleitungen/Installation von OpenCV 3 auf Raspberry Pi 3.docx)
 - [Einrichten einer Remote Desktop Verbindung vom PC zum Raspberry](Anleitungen/Einrichtung einer Remotedesktopverbindung von Windows zu RasPi.docx)
-- [Python Grundlagen](Python.md)
+- [Python Grundlagen](Python.md), danach können [Python Hausaufgaben 1/2](Python Homework A.md) gelöst werden.
 - [Einführung in Versionskontrolle (Git)](Anleitungen/EinleitungGIT.pptx)
 - Methoden der Bildverarbeitung
 - Arbeiten im Team / Arbeitsteilung (Scrum)
