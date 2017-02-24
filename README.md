@@ -1,6 +1,6 @@
 # Gestenerkennung auf dem Raspberry Pi mit OpenCV
 
-Das Projekt Gestenerkennung entsteht als Teil der Berufsorientierung für Gymnasiasten (BOGY) für das Leibnitz-Gymnasium in Rottweil im Schuljahr 2016/17. Als Firmenpartner steht [Mitutoyo CTL in Oberndorf](http://www.mitutoyo-ctl.de/de/karriere/ausbildungundstudium) als Ansprechpartner mit Hardware, Räumlichkeiten und Ansprechpartnern zur Verfügung.
+Das Projekt Gestenerkennung entsteht als Teil der Berufsorientierung für Gymnasiasten (BOGY) für das [Leibnitz-Gymnasium in Rottweil](https://lg.rw.schule-bw.de/home/?page_id=11268) im Schuljahr 2016/17. Als Firmenpartner steht [Mitutoyo CTL in Oberndorf](http://www.mitutoyo-ctl.de/de/karriere/ausbildungundstudium) als Ansprechpartner mit Hardware, Räumlichkeiten und Ansprechpartnern zur Verfügung.
 
 Projektziel: Gestenerkennung mit OpenCV auf dem Raspberry Pi zur Steuerung von Geräten (z.B. Stereoanlage)
 
