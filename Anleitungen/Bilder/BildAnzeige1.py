@@ -1,6 +1,7 @@
 import cv2
 
 img = cv2.imread("farben.bmp", cv2.IMREAD_COLOR)
+print(img) #Consolen Ausgabe
 r,g,b = cv2.split(img)
 img2 = cv2.merge([r,g,b])
 cv2.imshow("farben", img)
