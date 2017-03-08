@@ -11,7 +11,9 @@ Zu vermittelndes Wissen:
 - [Einrichten einer Remote Desktop Verbindung vom PC zum Raspberry](Anleitungen/Einrichtung einer Remotedesktopverbindung von Windows zu RasPi.docx)
 - [Python Grundlagen](Python.md), danach können [Python Hausaufgaben 1/2](Python Homework A.md) gelöst werden.
 - [Einführung in Versionskontrolle (Git)](Anleitungen/EinleitungGIT.pptx)
-- Methoden der Bildverarbeitung
+- [Objektorientierung und Bibliotheken in Python](Anleitungen/Python Erweitert.pptx)
+- [Bildverarbeitung: Theorie](Anleitungen/Bildverarbeitung Theorie.pptx) und [praktisches Beispiel](Anleitungen/Bildverarbeitung Beispiele.pptx) (siehe auch: [Bild zum selbst üben](Anleitungen/Bildverarbeitung Beispiele Ausgangsbild.jpg))
+- [Erste Schritte mit OpenCV in Python](Anleitungen\Bilder)
 - Arbeiten im Team / Arbeitsteilung (Scrum)
 
 Wir hoffen, dass die hier bereitgestellten Unterlagen Nachahmer finden und Schüler motiviert, einen technischen Beruf (MINT-Beruf) zu ergreifen, z.B. in Form eines dualen Studiums an der DHBW.
