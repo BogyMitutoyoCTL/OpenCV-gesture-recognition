@@ -8,3 +8,18 @@ Es werden Funktionen gebraucht, die ihr schon in den Übungen angewendet habt. D
 Als Ergebnis erwarten wir ein Schwarz-Weiß Bild (Handschuh weiß)
 
 Solltet ihr Fragen haben kontaktiert uns per E-Mail.
+
+Hinweis zur Lösung:
+Die HSV Werte des Handschuhs könnt ihr mit einem Grafikprogramm wie GIMP auslesen. Allerdings müsst ihr darauf achten, dass die
+meisten Grafikprogramme die "S" und "V" Werte in Prozent (also von 0 bis 100) auslesen aber die
+inRange() Funktion von OpenCV die "S" und die "V" Werte als Hexadezimale Zahlen erwartet.
+
+* Umrechnung: 
+  * Ausgelesene HSV Werte mit GIMP: 
+    * H:  61
+    * S: 100
+    * V:  26
+  * HSV Werte für OpenCV:         
+    * H:  61
+    * S: 255  --> (255 X 1) = **255**
+    * V:  66  --> (255 X 0,26) = **66,3**
