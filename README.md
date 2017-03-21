@@ -8,11 +8,11 @@ Zu vermittelndes Wissen:
 - [Raspberry Pi Hardware](Anleitungen/Raspberry%20Hardware.pptx)
 - [Linux (Raspbian) Grundlagen](Anleitungen/Einführung%20Linux.docx)
 - [Installation von OpenCV auf dem Raspberry](Anleitungen/Installation%20von%20OpenCV%203%20auf%20Raspberry%20Pi%203.docx)
-- [Einrichten einer Remote Desktop Verbindung vom PC zum Raspberry](Anleitungen/Einrichtung%20einer%20Remotedesktopverbindung%20von%20Windows%20zu%20RasPi.docx)
-- [Python Grundlagen](Python.md), danach können [Python Hausaufgaben 1/2](Python Homework A.md) gelöst werden.
+- [Einrichten einer Remote Desktop Verbindung vom PC zum Raspberry](Anleitungen/Einrichtung%20einer%20Remotedesktopverbindung%20von%20Windows%20zu%20RasPi.md)
+- [Python Grundlagen](Python.md), danach können [Python Hausaufgaben 1/2](Python%20Homework A.md) gelöst werden.
 - [Einführung in Versionskontrolle (Git)](Anleitungen/EinleitungGIT.pptx)
 - [Objektorientierung und Bibliotheken in Python](Anleitungen/Python%20Erweitert.pptx)
-- [Bildverarbeitung: Theorie](Anleitungen/Bildverarbeitung%20Theorie.pptx) und [praktisches Beispiel](Anleitungen/Bildverarbeitung%20Beispiele.pptx) (siehe auch: [Bild zum selbst üben](Anleitungen/Bildverarbeitung%20Beispiele%20Ausgangsbild.jpg))
+- [Bildverarbeitung: Theorie](Anleitungen/Bildverarbeitung%20Theorie.pptx) und [praktisches Beispiel](Anleitungen/Bildverarbeitung%20Beispiele.pptx) (siehe auch: [Bild zum selbst üben](Hausaufgaben/Handschuh.jpg))
 - [Erste Schritte mit OpenCV in Python](Anleitungen/Bilder)
 - Arbeiten im Team / Arbeitsteilung (Scrum)
 
