@@ -1,5 +1,5 @@
 # OpenCV Installation
-
+*Wichtig: Es wird eine Python 3 Installation benötigt*
 * Windows
   * PyCharm
 
